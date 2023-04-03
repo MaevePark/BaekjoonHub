@@ -1,4 +1,4 @@
-# :pushpin: Baekjoon & programmers Algorithm 문제 풀이 목록
+# :pushpin: Baekjoon & Programmers Algorithm 문제 풀이 목록
 - 각 단계를 펼치면 풀었던 문제가 보여집니다.
 ## :books: Baekjoon
 <details>
@@ -20,7 +20,7 @@
 
 </details>
 
-## :books: programmers
+## :books: Programmers
 <details>
 
 <summary><h3> lv0 </h3></summary>
