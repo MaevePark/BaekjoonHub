@@ -1,4 +1,5 @@
-# :pushpin: Baekjoon & programmers Algorithm 문제
+# :pushpin: Baekjoon & programmers Algorithm 문제 목록
+- 각 단계를 펼치면 목록이 보여집니다.
 ## :books: Baekjoon
 <details>
 
