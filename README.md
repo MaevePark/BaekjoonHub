@@ -1,8 +1,8 @@
-# :pushpin: Baekjoon & programmers 알고리즘 문제 풀이 목록
+# :pushpin: Baekjoon & programmers Algorithm 문제
 ## :books: Baekjoon
 <details>
 
-<summary><h3>✅ Bronze </h3></summary>
+<summary><h3> Bronze </h3></summary>
 
 | 문제번호 | 링크 |
 | ----- | ----- |
@@ -22,7 +22,7 @@
 ## :books: programmers
 <details>
 
-<summary><h3>✅ lv0 </h3></summary>
+<summary><h3> lv0 </h3></summary>
 
 | 문제번호 | 링크 |
 | ----- | ----- |
