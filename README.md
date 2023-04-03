@@ -10,7 +10,7 @@
 |1000. A＋B |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1000.%E2%80%85A%EF%BC%8BB/A%EF%BC%8BB.java)|
 |1001. A－B |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB/A%EF%BC%8DB.java)|
 |1008. A／B |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB/A%EF%BC%8FB.java)|
-|10998. A×B |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/10998.%E2%80%85A%C3%97B/A%C3%97B.java)|
+|10998. A × B |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/10998.%E2%80%85A%C3%97B/A%C3%97B.java)|
 |1330. 두 수 비교하기 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/1330.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0/%EB%91%90%E2%80%85%EC%88%98%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0.java)|
 |9498. 시험 성적 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/9498.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%84%B1%EC%A0%81/%EC%8B%9C%ED%97%98%E2%80%85%EC%84%B1%EC%A0%81.java)|
 |2753. 윤년 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2753.%E2%80%85%EC%9C%A4%EB%85%84/%EC%9C%A4%EB%85%84.java)|
