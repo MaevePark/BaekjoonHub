@@ -10,8 +10,8 @@ public class Main {
 		in.close();
 		
 		if(M < 45) {
-			H--;		// 시(hour) 1 감소
-			M= 60 - (45 - M); 	// 분(min) 감소
+			H--; // 시(hour) 1 감소
+			M= 60 - (45 - M); // 분(min) 감소
 			if(H < 0) {
 				H = 23;
 			}
