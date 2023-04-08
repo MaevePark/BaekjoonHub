@@ -1,9 +1,8 @@
 # :pushpin: Baekjoon & Programmers Algorithm 문제 풀이 목록
 - 각 단계를 펼치면 풀었던 문제가 보여집니다.
 ## :books: Baekjoon
-<details>
 
-<summary><h3> Bronze </h3></summary>
+### Bronze
 
 | 문제번호 | 링크 |
 | ----- | ----- |
@@ -18,15 +17,13 @@
 |14681. 사분면 고르기|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/14681.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0.java)|
 |2884. 알람 시계|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84/%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84.java)|
 
-</details>
 
 ## :books: Programmers
-<details>
 
-<summary><h3> lv0 </h3></summary>
+### lv0
 
 | 문제번호 | 링크 |
 | ----- | ----- |
 |120819. 아이스 아메리카노 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120819.%E2%80%85%EC%95%84%EC%9D%B4%EC%8A%A4%E2%80%85%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8/%EC%95%84%EC%9D%B4%EC%8A%A4%E2%80%85%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.java)|
 
-</details>
+
