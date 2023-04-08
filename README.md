@@ -16,7 +16,7 @@
 |2753. 윤년 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2753.%E2%80%85%EC%9C%A4%EB%85%84/%EC%9C%A4%EB%85%84.java)|
 |14681. 사분면 고르기|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/14681.%E2%80%85%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0/%EC%82%AC%EB%B6%84%EB%A9%B4%E2%80%85%EA%B3%A0%EB%A5%B4%EA%B8%B0.java)|
 |2884. 알람 시계|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84/%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84.java)|
-|2739. 구구단|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84/%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84.java)|
+|2739. 구구단|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2739.%E2%80%85%EA%B5%AC%EA%B5%AC%EB%8B%A8/%EA%B5%AC%EA%B5%AC%EB%8B%A8.java)|
 
 ## :books: Programmers
 
