@@ -1,5 +1,4 @@
 # :pushpin: Baekjoon & Programmers Algorithm 문제 풀이 목록
-- 각 단계를 펼치면 풀었던 문제가 보여집니다.
 ## :books: Baekjoon
 
 ### Bronze
