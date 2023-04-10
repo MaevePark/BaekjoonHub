@@ -25,4 +25,4 @@
 | 문제번호 | 링크 |
 | ----- | ----- |
 |120819. 아이스 아메리카노 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120819.%E2%80%85%EC%95%84%EC%9D%B4%EC%8A%A4%E2%80%85%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8/%EC%95%84%EC%9D%B4%EC%8A%A4%E2%80%85%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.java)|
-|120805. 몫 구하 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120805.%E2%80%85%EB%AA%AB%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EB%AA%AB%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.java)
+|120805. 몫 구하기 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/lv0/120805.%E2%80%85%EB%AA%AB%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EB%AA%AB%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.java)
