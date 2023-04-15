@@ -1,5 +1,5 @@
 # :pushpin: Baekjoon & Programmers Algorithm 문제 풀이 목록
-## :books: Baekjoon
+## :open_book: Baekjoon
 
 ### Bronze
 
@@ -17,7 +17,7 @@
 |2884. 알람 시계|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84/%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84.java)|
 |2739. 구구단|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2739.%E2%80%85%EA%B5%AC%EA%B5%AC%EB%8B%A8/%EA%B5%AC%EA%B5%AC%EB%8B%A8.java)|
 
-## :books: Programmers
+## :open_book: Programmers
 
 ### lv0
 
