@@ -17,6 +17,8 @@
 |2884. 알람 시계|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2884.%E2%80%85%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84/%EC%95%8C%EB%9E%8C%E2%80%85%EC%8B%9C%EA%B3%84.java)|
 |2739. 구구단|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2739.%E2%80%85%EA%B5%AC%EA%B5%AC%EB%8B%A8/%EA%B5%AC%EA%B5%AC%EB%8B%A8.java)|
 |8393. 합|[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9/%ED%95%A9.java)|
+|2438. 별 찍기 - 1 |[링크](https://github.com/MaevePark/BaekjoonHub/blob/main/%EB%B0%B1%EC%A4%80/Bronze/2438.%E2%80%85%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%851/%EB%B3%84%E2%80%85%EC%B0%8D%EA%B8%B0%E2%80%85%EF%BC%8D%E2%80%851.java)|
+
 
 ## :open_book: Programmers
 
